@@ -269,7 +269,7 @@ body::after{
   scale(1.03);
 
   box-shadow:
-  0 0 30px rgba(25,215,255,.45);
+  0 0 30px rgba(0, 0, 0, 0.45);
 }
 
 
@@ -277,9 +277,7 @@ body::after{
   background:rgba(255,255,255,.05);
 
   border:1px solid rgba(255,255,255,.08);
-
   backdrop-filter:blur(12px);
-
   color:white;
 }
 
